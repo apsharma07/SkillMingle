@@ -1,0 +1,2 @@
+# SkillMingle
+Project on AI
